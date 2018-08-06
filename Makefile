@@ -3,6 +3,7 @@ TARGETS=lib \
 	mandelbrot \
 	offscreen \
 	pngview \
+	pngview_refresh \
 	radar_sweep \
 	radar_sweep_alpha \
 	rgb_triangle \
